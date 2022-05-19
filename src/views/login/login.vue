@@ -1,6 +1,8 @@
 <template>
-  <div>我是登录页面</div>
-  <el-button type="primary">Primary</el-button>
+  <div>
+    <h3>我是登录页面</h3>
+    <el-button type="primary">Primary</el-button>
+  </div>
 </template>
 
 <script>

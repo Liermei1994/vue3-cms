@@ -1,5 +1,7 @@
 <template>
-  <div>hhh</div>
+  <div>
+    <h3>我是main页面</h3>
+  </div>
   <!-- <el-table :data="tableData" height="250" style="width: 100%">
     <el-table-column prop="date" label="Date" width="180" />
     <el-table-column prop="name" label="Name" width="180" />
